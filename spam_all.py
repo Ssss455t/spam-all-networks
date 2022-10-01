@@ -7,10 +7,10 @@ time.sleep (1)
 print ()
 print ('\033[;095mClick on This Link To Get Password👇')
 print ()
-print ('\033[;093mhttps://bestcash2020.com/Ll67n')
+print ('\033[;093mhttps://bestcash2020.com/ceAFnCFl')
 print ()
 x=input ('\033[;092m》Enter The Script Password : \033[;096m')	
-if x == 'Abdullah7520':
+if x == 'Abdullah7701':
     time.sleep (0.6)
     print ()
     print ('》True password')
